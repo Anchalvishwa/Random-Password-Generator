@@ -50,4 +50,3 @@ Generated Password: aB3$dEfG7h!J
 ## Requirements
 
 - Python 3.12
-- 
